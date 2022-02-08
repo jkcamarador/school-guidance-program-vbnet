@@ -1,0 +1,32 @@
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Release\HSU Guidance Program.exe.config
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Release\HSU Guidance Program.exe.manifest
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Release\HSU Guidance Program.application
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Release\HSU Guidance Program.exe
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Release\HSU Guidance Program.pdb
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Release\HSU Guidance Program.xml
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.vbprojAssemblyReference.cache
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.Form2.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.G11StudentsList.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.RandomRemarks.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.remarksform.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.remarksform2.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.remarksform3.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.Schedule.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.Form1.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.About.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.grade11.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.grade12.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.Resources.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.Remarks.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.G12StudentsList.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.SearchResult.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.SearchResult2.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.Unlisted.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.vbproj.GenerateResource.cache
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\Guidance.vbproj.CoreCompileInputs.cache
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\HSU Guidance Program.TrustInfo.xml
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\HSU Guidance Program.exe.manifest
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\HSU Guidance Program.application
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\HSU Guidance Program.exe
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\HSU Guidance Program.xml
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Release\HSU Guidance Program.pdb

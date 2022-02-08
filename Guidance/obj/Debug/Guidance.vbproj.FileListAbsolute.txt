@@ -1,0 +1,48 @@
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\bin\Debug\Guidance.exe.config
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\bin\Debug\Guidance.exe
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\bin\Debug\Guidance.pdb
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\bin\Debug\Guidance.xml
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.vbprojAssemblyReference.cache
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.Form1.resources
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.About.resources
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.Resources.resources
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.vbproj.GenerateResource.cache
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.vbproj.CoreCompileInputs.cache
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.exe
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.xml
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.pdb
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.grade11.resources
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.grade12.resources
+C:\Users\Glenn Jimenez\Desktop\Guidance\Guidance\obj\Debug\Guidance.remarks.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.vbprojAssemblyReference.cache
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.Form1.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.About.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.grade11.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.grade12.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.Resources.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.remarks.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.vbproj.GenerateResource.cache
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.vbproj.CoreCompileInputs.cache
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.Schedule.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.remarksform.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.G12StudentsList.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.G11StudentsList.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.Form2.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.remarksform2.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Debug\HSU Guidance Program.exe.config
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Debug\HSU Guidance Program.exe.manifest
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Debug\HSU Guidance Program.application
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Debug\HSU Guidance Program.exe
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Debug\HSU Guidance Program.pdb
+C:\Users\KENETH\Desktop\Guidance\Guidance\bin\Debug\HSU Guidance Program.xml
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\HSU Guidance Program.TrustInfo.xml
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\HSU Guidance Program.exe.manifest
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\HSU Guidance Program.application
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\HSU Guidance Program.exe
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\HSU Guidance Program.xml
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\HSU Guidance Program.pdb
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.SearchResult.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.Unlisted.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.RandomRemarks.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.remarksform3.resources
+C:\Users\KENETH\Desktop\Guidance\Guidance\obj\Debug\Guidance.SearchResult2.resources
